@@ -1,0 +1,1 @@
+numpy\nscipy\nopenai>=1.0.0\npydantic>=2.0.0\nloguru\npython-dotenv\nnetworkx\n
